@@ -1,5 +1,5 @@
 # Covid -19 Web Application.
-Covid - 19 Web App using Django
+Covid - 19 Web App using Django uses an api to collect the latest data about the corona virus pandamic and displays it to the user giving insights regarding the total recovered, deaths, new cases etc.
 
 ## Installation
 Install my-project 
